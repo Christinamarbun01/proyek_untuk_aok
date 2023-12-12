@@ -1,0 +1,34 @@
+Roadmap Belajar Menjadi Front End Developer
+
+Front End Developer adalah seorang yang bertanggung jawab untuk membuat tampilan atau interface dari sebuah website atau aplikasi web. Untuk menjadi seorang Front End Developer, dibutuhkan pemahaman yang kuat tentang bahasa pemrograman web, teknologi web, dan pengalaman pengembangan web. Nah, jika kamu tertarik untuk menjadi seorang Front End Developer, berikut adalah roadmap belajar yang bisa kamu ikuti:
+
+Step) Materi
+Deskripsi
+
+1) HTML dan CSS
+Pelajari dasar-dasar HTML dan CSS. Ini akan membantumu memahami struktur dasar dan tata letak situs web.
+
+2) JavaScript
+Pelajari JavaScript, bahasa scripting yang digunakan untuk membuat situs web yang interaktif.
+
+3) Framework CSS
+Pelajari framework CSS seperti Bootstrap, Foundation, atau Materialize. Framework ini akan membantumu mempercepat pengembangan web dengan menyediakan komponen siap pakai.
+
+4) Framework JavaScript
+Pelajari framework JavaScript seperti React, Angular, atau Vue. Framework ini akan membantumu membuat situs web yang kompleks dengan lebih mudah.
+
+5) Pengujian dan Debugging	Pelajari cara melakukan pengujian dan debugging pada situs webmu.
+
+6) Git dan Version Control	
+Pelajari cara menggunakan Git dan version control untuk mengelola kode situs webmu.
+
+7) Deployment
+Pelajari cara mendeploy situs webmu.
+
+8) Keterampilan Desain
+Pelajari dasar-dasar desain web dan UI/UX untuk membuat situs web yang menarik dan mudah digunakan.
+
+9) Pemrograman Backend
+Pelajari pemrograman backend untuk membangun situs web yang lebih kompleks dan dinamis.
+
+Itulah roadmap belajar dan tips untuk menjadi seorang Front End Developer. Kamu bisa mempelajari materi satu per satu dan mempraktekkannya untuk memperdalam pemahamanmu. Selamat belajar dan semoga sukses!
